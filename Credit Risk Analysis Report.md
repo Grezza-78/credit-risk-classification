@@ -2,17 +2,17 @@
 
 ## Overview of the Analysis
 
-The purpose of this analysis was to evaluate the performance of a logistic regression model in predicting two types of loans: "0" (healthy loan) and "1" (high-risk loan). The analysis aimed to assess the model's ability to differentiate between healthy loans and high-risk loans based on financial information.
+The purpose of this analysis was to evaluate the performance of the Logistic Regression model in predicting two types of loans: "0" (healthy loan) and "1" (high-risk loan). The analysis aimed to assess the model's ability to differentiate between healthy loans and high-risk loans based on financial information.
 
 The dataset used in this analysis contained financial information related to loans. It included features such as credit scores, income levels, debt-to-income ratios, employment history, loan amounts, and other relevant variables. The goal was to predict whether a given loan would be classified as a healthy loan or a high-risk loan.
 
 To understand the distribution of the predicted variables, a value_counts() analysis was conducted. This analysis provides the count of instances for each label, indicating the frequency of healthy loans and high-risk loans in the dataset.
 
-Throughout the machine learning process, several stages were involved. These stages typically include data preprocessing, feature engineering, model selection, training, evaluation, and fine-tuning. Data preprocessing may involve handling missing values, scaling numerical features, and encoding categorical variables. Feature engineering involves creating new features or transforming existing ones to enhance the model's predictive power. Model selection entails choosing an appropriate algorithm, in this case, logistic regression, for classification tasks. The selected model was then trained on the dataset, and its performance was evaluated using various evaluation metrics.
+Throughout the machine learning process, several stages were involved. These stages typically include data preprocessing, feature engineering, model selection, training, evaluation, and fine-tuning. Data preprocessing may involve handling missing values, scaling numerical features, and encoding categorical variables. Feature engineering involves creating new features or transforming existing ones to enhance the model's predictive power. Model selection entails choosing an appropriate algorithm, in this case, Logistic Regression, for classification tasks. The selected model was then trained on the dataset, and its performance was evaluated using various evaluation metrics.
 
-In this analysis, logistic regression was used as the classification algorithm to predict loan labels. Logistic regression is a widely used method for binary classification problems, such as distinguishing between healthy loans and high-risk loans. It estimates the probability of an instance belonging to a particular class and applies a threshold to make the final prediction.
+In this analysis, Logistic Regression was used as the classification algorithm to predict loan labels. Logistic Regression is a widely used method for binary classification problems, such as distinguishing between healthy loans and high-risk loans. It estimates the probability of an instance belonging to a particular class and applies a threshold to make the final prediction.
 
-By conducting this analysis, the goal was to build and evaluate a logistic regression model that could effectively predict the likelihood of a loan being classified as healthy or high-risk based on the provided financial information. The insights gained from this analysis could assist in making informed decisions regarding loan risk assessment and classification tasks.
+By conducting this analysis, the goal was to build and evaluate if the Logistic Regression Model could effectively predict the likelihood of a loan being classified as healthy or high-risk based on the provided financial information. The insights gained from this analysis could assist in making informed decisions regarding loan risk assessment and classification tasks.
 
 ## Results
 
