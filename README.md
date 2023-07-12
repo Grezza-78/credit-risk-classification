@@ -8,4 +8,4 @@ This Challenge has been divided into the following subsections:
 
 * Creating Logistic Regression Model with the Original Data
 
-* Writing a Credit Risk Analysis Report - [Read the report here]
+* Writing a Credit Risk Analysis Report - [Read the report here](https://github.com/Grezza-78/credit-risk-classification/blob/main/Credit%20Risk%20Analysis%20Report.md)
